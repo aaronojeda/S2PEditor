@@ -3,10 +3,10 @@
 This README is under construction. Deployment version has not been uploaded yet.
 Game engine and GUI for the development of 2D platform games in Windows. Built using C++, SDL and Qt.
 ## Table of Contents
-* Installation
-* Usage
-* Credits
-* License
+1. Installation
+1. Usage
+1. Credits
+1. License
 ## Installation
 There is no need for installation, just run S2PEditor.exe under Deployment directory.
 ## Usage
