@@ -1,8 +1,12 @@
 # S2PEditor
-2D Platformer Editor built in C++ using Qt and S2P, a framework for 2D game development.
+## Description
+This README is under construction. Deployment version has not been uploaded yet.
+Game engine and GUI for the development of 2D platform games in Windows. Built using C++, SDL and Qt.
+## Installation
+There is no need for installation, just run S2PEditor.exe under Deployment directory.
+## Usage
+After running the executable, you will see a GUI. For more information go to the wiki.
+![Screenshot 1](S2PEditor/S2PEditor/assets/images/screenshot1.png)
 
-S2P framework is based on Shaun Mitchell's work in his book 'SDL Game Development'.
 
-This project was made for academic purposes. 
 
-Testing.
