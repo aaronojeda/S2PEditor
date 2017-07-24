@@ -3,4 +3,6 @@
 
 S2P framework is based on Shaun Mitchell's work in his book 'SDL Game Development'.
 
-This project was made for academic purposes.
+This project was made for academic purposes. 
+
+Testing.
