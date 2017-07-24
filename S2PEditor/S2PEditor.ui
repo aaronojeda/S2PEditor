@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>S2PEditorClass</class>
+ <widget class="QMainWindow" name="S2PEditorClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>781</width>
+    <height>694</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>S2PEditor</string>
+  </property>
+  <widget class="QWidget" name="centralWidget"/>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>781</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu_Project">
+    <property name="title">
+     <string>&amp;Project</string>
+    </property>
+    <addaction name="actionNewProject"/>
+    <addaction name="actionOpen"/>
+    <addaction name="actionSaveProject"/>
+    <addaction name="actionExportProject"/>
+    <addaction name="separator"/>
+    <addaction name="actionTextures"/>
+    <addaction name="actionSounds"/>
+    <addaction name="separator"/>
+    <addaction name="actionExit"/>
+   </widget>
+   <widget class="QMenu" name="menu_Level">
+    <property name="title">
+     <string>&amp;Level</string>
+    </property>
+    <addaction name="actionAddLevel"/>
+    <addaction name="actionSaveAs"/>
+    <addaction name="separator"/>
+    <addaction name="actionRun"/>
+    <addaction name="actionStop"/>
+    <addaction name="separator"/>
+    <addaction name="actionBackgrounds"/>
+    <addaction name="actionMusic"/>
+   </widget>
+   <widget class="QMenu" name="menu_Game">
+    <property name="title">
+     <string>&amp;Game</string>
+    </property>
+    <addaction name="actionGameSettings"/>
+    <addaction name="actionCreateGame"/>
+   </widget>
+   <widget class="QMenu" name="menu_Insert">
+    <property name="title">
+     <string>&amp;Insert</string>
+    </property>
+    <addaction name="actionSelectTile"/>
+    <addaction name="actionSelectObject"/>
+   </widget>
+   <widget class="QMenu" name="menu_Help">
+    <property name="title">
+     <string>&amp;Help</string>
+    </property>
+    <addaction name="actionAboutS2PEditor"/>
+   </widget>
+   <addaction name="menu_Project"/>
+   <addaction name="menu_Level"/>
+   <addaction name="menu_Game"/>
+   <addaction name="menu_Insert"/>
+   <addaction name="menu_Help"/>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionNewProject"/>
+   <addaction name="actionOpen"/>
+   <addaction name="actionSaveProject"/>
+   <addaction name="actionExportProject"/>
+   <addaction name="separator"/>
+   <addaction name="actionTextures"/>
+   <addaction name="actionSounds"/>
+   <addaction name="actionBackgrounds"/>
+   <addaction name="separator"/>
+   <addaction name="actionAddLevel"/>
+   <addaction name="actionSaveAs"/>
+   <addaction name="actionRun"/>
+   <addaction name="actionStop"/>
+   <addaction name="separator"/>
+   <addaction name="actionGameSettings"/>
+   <addaction name="actionCreateGame"/>
+   <addaction name="separator"/>
+   <addaction name="actionSelectTile"/>
+   <addaction name="actionSelectObject"/>
+  </widget>
+  <action name="actionOpen">
+   <property name="icon">
+    <iconset resource="S2PEditor.qrc">
+     <normaloff>:/S2PEditor/assets/images/GUI_Icons/folder-7.png</normaloff>:/S2PEditor/assets/images/GUI_Icons/folder-7.png</iconset>
+   </property>
+   <property name="text">
+    <string>Open</string>
+   </property>
+   <property name="shortcut">
+    <string/>
+   </property>
+  </action>
+  <action name="actionRun">
+   <property name="icon">
+    <iconset resource="S2PEditor.qrc">
+     <normaloff>:/S2PEditor/assets/images/GUI_Icons/play-button.png</normaloff>:/S2PEditor/assets/images/GUI_Icons/play-button.png</iconset>
+   </property>
+   <property name="text">
+    <string>Run</string>
+   </property>
+   <property name="shortcut">
+    <string>F5</string>
+   </property>
+  </action>
+  <action name="actionStop">
+   <property name="icon">
+    <iconset resource="S2PEditor.qrc">
+     <normaloff>:/S2PEditor/assets/images/GUI_Icons/stop.png</normaloff>:/S2PEditor/assets/images/GUI_Icons/stop.png</iconset>
+   </property>
+   <property name="text">
+    <string>Stop</string>
+   </property>
+   <property name="shortcut">
+    <string/>
+   </property>
+  </action>
+  <action name="actionExit">
+   <property name="text">
+    <string>Exit</string>
+   </property>
+  </action>
+  <action name="actionAddLevel">
+   <property name="icon">
+    <iconset resource="S2PEditor.qrc">
+     <normaloff>:/S2PEditor/assets/images/GUI_Icons/file.png</normaloff>:/S2PEditor/assets/images/GUI_Icons/file.png</iconset>
+   </property>
+   <property name="text">
+    <string>New</string>
+   </property>
+  </action>
+  <action name="actionSaveAs">
+   <property name="icon">
+    <iconset resource="S2PEditor.qrc">
+     <normaloff>:/S2PEditor/assets/images/GUI_Icons/saveAs.png</normaloff>:/S2PEditor/assets/images/GUI_Icons/saveAs.png</iconset>
+   </property>
+   <property name="text">
+    <string>Save as...</string>
+   </property>
+  </action>
+  <action name="actionTextures">
+   <property name="icon">
+    <iconset resource="S2PEditor.qrc">
+     <normaloff>:/S2PEditor/assets/images/GUI_Icons/editTextures.png</normaloff>:/S2PEditor/assets/images/GUI_Icons/editTextures.png</iconset>
+   </property>
+   <property name="text">
+    <string>Textures</string>
+   </property>
+  </action>
+  <action name="actionSelectObject">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="S2PEditor.qrc">
+     <normaloff>:/S2PEditor/assets/images/GUI_Icons/selectObject.png</normaloff>:/S2PEditor/assets/images/GUI_Icons/selectObject.png</iconset>
+   </property>
+   <property name="text">
+    <string>Object</string>
+   </property>
+  </action>
+  <action name="actionSelectTile">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="S2PEditor.qrc">
+     <normaloff>:/S2PEditor/assets/images/GUI_Icons/selectTile.png</normaloff>:/S2PEditor/assets/images/GUI_Icons/selectTile.png</iconset>
+   </property>
+   <property name="text">
+    <string>Tile</string>
+   </property>
+  </action>
+  <action name="actionBackgrounds">
+   <property name="icon">
+    <iconset resource="S2PEditor.qrc">
+     <normaloff>:/S2PEditor/assets/images/GUI_Icons/editBackground.png</normaloff>:/S2PEditor/assets/images/GUI_Icons/editBackground.png</iconset>
+   </property>
+   <property name="text">
+    <string>Backgrounds</string>
+   </property>
+  </action>
+  <action name="actionGameSettings">
+   <property name="icon">
+    <iconset resource="S2PEditor.qrc">
+     <normaloff>:/S2PEditor/assets/images/GUI_Icons/settings-4.png</normaloff>:/S2PEditor/assets/images/GUI_Icons/settings-4.png</iconset>
+   </property>
+   <property name="text">
+    <string>Settings</string>
+   </property>
+   <property name="toolTip">
+    <string>Game settings</string>
+   </property>
+  </action>
+  <action name="actionSaveProject">
+   <property name="icon">
+    <iconset resource="S2PEditor.qrc">
+     <normaloff>:/S2PEditor/assets/images/GUI_Icons/save.png</normaloff>:/S2PEditor/assets/images/GUI_Icons/save.png</iconset>
+   </property>
+   <property name="text">
+    <string>Save</string>
+   </property>
+  </action>
+  <action name="actionNewProject">
+   <property name="icon">
+    <iconset resource="S2PEditor.qrc">
+     <normaloff>:/S2PEditor/assets/images/GUI_Icons/folder.png</normaloff>:/S2PEditor/assets/images/GUI_Icons/folder.png</iconset>
+   </property>
+   <property name="text">
+    <string>New</string>
+   </property>
+  </action>
+  <action name="actionExportProject">
+   <property name="icon">
+    <iconset resource="S2PEditor.qrc">
+     <normaloff>:/S2PEditor/assets/images/GUI_Icons/folder-13.png</normaloff>:/S2PEditor/assets/images/GUI_Icons/folder-13.png</iconset>
+   </property>
+   <property name="text">
+    <string>Export</string>
+   </property>
+  </action>
+  <action name="actionCreateGame">
+   <property name="icon">
+    <iconset resource="S2PEditor.qrc">
+     <normaloff>:/S2PEditor/assets/images/GUI_Icons/game-controller-1.png</normaloff>:/S2PEditor/assets/images/GUI_Icons/game-controller-1.png</iconset>
+   </property>
+   <property name="text">
+    <string>Export</string>
+   </property>
+   <property name="toolTip">
+    <string>Create game</string>
+   </property>
+  </action>
+  <action name="actionAbout">
+   <property name="text">
+    <string>About S2PEditor</string>
+   </property>
+  </action>
+  <action name="actionSounds">
+   <property name="icon">
+    <iconset resource="S2PEditor.qrc">
+     <normaloff>:/S2PEditor/assets/images/GUI_Icons/music-player-1.png</normaloff>:/S2PEditor/assets/images/GUI_Icons/music-player-1.png</iconset>
+   </property>
+   <property name="text">
+    <string>Sounds</string>
+   </property>
+  </action>
+  <action name="actionMusic">
+   <property name="icon">
+    <iconset resource="S2PEditor.qrc">
+     <normaloff>:/S2PEditor/assets/images/GUI_Icons/music-player.png</normaloff>:/S2PEditor/assets/images/GUI_Icons/music-player.png</iconset>
+   </property>
+   <property name="text">
+    <string>Music</string>
+   </property>
+  </action>
+  <action name="actionAboutS2PEditor">
+   <property name="text">
+    <string>About S2PEditor</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="S2PEditor.qrc"/>
+ </resources>
+ <connections/>
+</ui>

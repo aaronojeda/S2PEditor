@@ -1,0 +1,44 @@
+<RCC>
+  <qresource prefix="S2PEditor">
+    <file>assets/images/GUI_Icons/music-player.png</file>
+    <file>assets/images/GUI_Icons/music-player-1.png</file>
+    <file>assets/images/GUI_Icons/saveAs.png</file>
+    <file>assets/images/GUI_Icons/play-button.png</file>
+    <file>assets/images/GUI_Icons/stop.png</file>
+    <file>assets/images/GUI_Icons/game-controller-1.png</file>
+    <file>assets/images/GUI_Icons/file.png</file>
+    <file>assets/images/GUI_Icons/folder.png</file>
+    <file>assets/images/GUI_Icons/folder-7.png</file>
+    <file>assets/images/GUI_Icons/save.png</file>
+    <file>assets/images/GUI_Icons/settings-4.png</file>
+    <file>assets/images/GUI_Icons/editBackground.png</file>
+    <file>assets/images/GUI_Icons/selectTile.png</file>
+    <file>assets/images/GUI_Icons/selectObject.png</file>
+    <file>assets/images/GUI_Icons/editTextures.png</file>
+    <file>assets/images/GUI_Icons/folder-13.png</file>
+  </qresource>
+  <qresource prefix="/Common">
+    <file>assets/images/GUI_Icons/saveLoad.png</file>
+    <file>assets/images/GUI_Icons/arrowDown.png</file>
+    <file>assets/images/GUI_Icons/arrowUp.png</file>
+    <file>assets/images/GUI_Icons/add-1.png</file>
+    <file>assets/images/GUI_Icons/zoom-in.png</file>
+    <file>assets/images/GUI_Icons/zoom-out.png</file>
+  </qresource>
+  <qresource prefix="/QObjectsDock">
+    <file>assets/images/GUI_Icons/newObjs/player.png</file>
+    <file>assets/images/GUI_Icons/newObjs/chaser.png</file>
+    <file>assets/images/GUI_Icons/newObjs/flyingChaser.png</file>
+    <file>assets/images/GUI_Icons/newObjs/flying.png</file>
+    <file>assets/images/GUI_Icons/newObjs/leftRight.png</file>
+    <file>assets/images/GUI_Icons/newObjs/checkPoint.png</file>
+    <file>assets/images/GUI_Icons/newObjs/endLevel.png</file>
+    <file>assets/images/GUI_Icons/newObjs/doorGUI.png</file>
+    <file>assets/images/GUI_Icons/newObjs/1up.png</file>
+    <file>assets/images/GUI_Icons/newObjs/healthUp.png</file>
+    <file>assets/images/GUI_Icons/newObjs/keysUp.png</file>
+    <file>assets/images/GUI_Icons/error.png</file>
+    <file>assets/images/GUI_Icons/newObjs/scoreUp.png</file>
+    <file>assets/images/GUI_Icons/edit.png</file>
+  </qresource>
+</RCC>

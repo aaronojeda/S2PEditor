@@ -1,0 +1,674 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="tinyxml2::StrPair" Collapsed="true">
+    <Position X="26.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAiAAAAAhAAQCAIAAQgIAAAQAAAAAQAgAAQAAAA=</HashCode>
+      <FileName>tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_QAddBckDialog" Collapsed="true">
+    <Position X="3.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wQAAAAIAEAAAADAACAQAAAAACQQAIAACAAAAAAAABAA=</HashCode>
+      <FileName>GeneratedFiles\ui_QAddBckDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_QAddSoundDialog" Collapsed="true">
+    <Position X="0.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAQAABAAACAAAAAAAAIQAIAEAAAAAAFAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_QAddSoundDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_QBckDialog" Collapsed="true">
+    <Position X="18.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wYAAAIIAAIAAADAACABAAAEACAQAIAQAgIAgQEAAAAE=</HashCode>
+      <FileName>GeneratedFiles\ui_QBckDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_QGameSettingsDialog" Collapsed="true">
+    <Position X="18.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>74cID4JvDCcAoBgkWIEQkAEhUBYAYKEACKgAAXgIz3E=</HashCode>
+      <FileName>GeneratedFiles\ui_QGameSettingsDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_QLevelsDock" Collapsed="true">
+    <Position X="18.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABIGAAKAAAAhASAEAAAAAAAQAIAEAAAAAAEAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_QLevelsDock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_QNewLevelDialog" Collapsed="true">
+    <Position X="18.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAKICMAgACIgACAAAAAAAAAQBIAAAAAAAAEAABCA=</HashCode>
+      <FileName>GeneratedFiles\ui_QNewLevelDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_QNewObjectDialog" Collapsed="true">
+    <Position X="15.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgMBIoLzmDABAAABCAISAiEACIQAMAggDAQGQVAID8Y=</HashCode>
+      <FileName>GeneratedFiles\ui_QNewObjectDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_QNewProjectDialog" Collapsed="true">
+    <Position X="12.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAKIBMAgACJgACEAAAAAAAAQBIAAAAAAAAEAABCA=</HashCode>
+      <FileName>GeneratedFiles\ui_QNewProjectDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_QNewSpriteDialog" Collapsed="true">
+    <Position X="9.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAQAABAAACAAAAAAAAIQAIAAAAAAAAFAAAEA=</HashCode>
+      <FileName>GeneratedFiles\ui_QNewSpriteDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_QNewTilesetDialog" Collapsed="true">
+    <Position X="6.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BwABAIIBACAAABgACMAQAAEAAAQAIAAAACAAAEAABEA=</HashCode>
+      <FileName>GeneratedFiles\ui_QNewTilesetDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_QObjectsDock" Collapsed="true">
+    <Position X="3.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIICDIBIAADECACRAABACBQAMIBAAAAAEFAgBBE=</HashCode>
+      <FileName>GeneratedFiles\ui_QObjectsDock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_QSoundsDialog" Collapsed="true">
+    <Position X="0.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAAIIDAIgAABgACAAEAAABAAQIIgFAAGAAAECABAA=</HashCode>
+      <FileName>GeneratedFiles\ui_QSoundsDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_QTexturesDialog" Collapsed="true">
+    <Position X="15.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAIBAIAAAAgACBAAAAEAAAQAIAEAgCAAAEAAAAE=</HashCode>
+      <FileName>GeneratedFiles\ui_QTexturesDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_QTilesetsDock" Collapsed="true">
+    <Position X="15.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAKAAAAAAAABACAEAAABAAIQAIAAAEAAAgEAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_QTilesetsDock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_S2PEditorClass" Collapsed="true">
+    <Position X="11.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIABABkAGAAAAAAIGAgIgIgAQQJIgGwAAwAAIAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_S2PEditor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BckLayer" Collapsed="true">
+    <Position X="6.5" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAUAAA=</HashCode>
+      <FileName>BckLayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EditorController">
+    <Position X="18.75" Y="26.5" Width="5.75" />
+    <Members>
+      <Method Name="~EditorController" Hidden="true" />
+      <Method Name="addObjCfg" Hidden="true" />
+      <Method Name="clear" Hidden="true" />
+      <Method Name="clearObject" Hidden="true" />
+      <Method Name="clearTilesets" Hidden="true" />
+      <Method Name="deleteLevel" Hidden="true" />
+      <Method Name="deleteObjCfg" Hidden="true" />
+      <Method Name="EditorController" Hidden="true" />
+      <Method Name="getBackgrounds" Hidden="true" />
+      <Method Name="getGameLevels" Hidden="true" />
+      <Method Name="getHUDIcons" Hidden="true" />
+      <Method Name="getInitValues" Hidden="true" />
+      <Method Name="getLevelHeight" Hidden="true" />
+      <Method Name="getLevelHeightPx" Hidden="true" />
+      <Method Name="getLevelMusic" Hidden="true" />
+      <Method Name="getLevels" Hidden="true" />
+      <Method Name="getLevelWidth" Hidden="true" />
+      <Method Name="getLevelWidthPx" Hidden="true" />
+      <Method Name="getMaxValues" Hidden="true" />
+      <Method Name="getMusic" Hidden="true" />
+      <Method Name="getObjectCfgs" Hidden="true" />
+      <Method Name="getScreenTextureIDs" Hidden="true" />
+      <Method Name="getSfxs" Hidden="true" />
+      <Method Name="getTextureHeight" Hidden="true" />
+      <Method Name="getTextures" Hidden="true" />
+      <Method Name="getTextureWidth" Hidden="true" />
+      <Method Name="getTilesets" Hidden="true" />
+      <Method Name="getTileSize" Hidden="true" />
+      <Method Name="getWindowHeight" Hidden="true" />
+      <Method Name="getWindowWidth" Hidden="true" />
+      <Method Name="hScroll" Hidden="true" />
+      <Method Name="init" Hidden="true" />
+      <Method Name="Instance" Hidden="true" />
+      <Method Name="levelExists" Hidden="true" />
+      <Method Name="loadLevel" Hidden="true" />
+      <Method Name="loadMusic" Hidden="true" />
+      <Method Name="loadProject" Hidden="true" />
+      <Method Name="loadSfx" Hidden="true" />
+      <Method Name="loadTexture" Hidden="true" />
+      <Field Name="m_bRunning" Hidden="true" />
+      <Field Name="m_Editor" Hidden="true" />
+      <Field Name="m_levels" Hidden="true" />
+      <Field Name="m_music" Hidden="true" />
+      <Field Name="m_objConfigs" Hidden="true" />
+      <Field Name="m_sfxs" Hidden="true" />
+      <Field Name="m_testLevel" Hidden="true" />
+      <Field Name="m_textures" Hidden="true" />
+      <Field Name="m_tilesets" Hidden="true" />
+      <Method Name="newLevel" Hidden="true" />
+      <Method Name="operator=" Hidden="true" />
+      <Method Name="removeTiles" Hidden="true" />
+      <Method Name="removeTileset" Hidden="true" />
+      <Method Name="runLevel" Hidden="true" />
+      <Method Name="saveLevel" Hidden="true" />
+      <Method Name="saveProject" Hidden="true" />
+      <Method Name="selectObject" Hidden="true" />
+      <Method Name="selectTile" Hidden="true" />
+      <Method Name="setCollisionTiles" Hidden="true" />
+      <Method Name="setCurrentTileset" Hidden="true" />
+      <Method Name="setHUDIcons" Hidden="true" />
+      <Method Name="setInitValues" Hidden="true" />
+      <Method Name="setLevelFiles" Hidden="true" />
+      <Method Name="setLevelMusic" Hidden="true" />
+      <Method Name="setMaxValues" Hidden="true" />
+      <Method Name="setObject" Hidden="true" />
+      <Method Name="setScreenTextureIDs" Hidden="true" />
+      <Method Name="setTile" Hidden="true" />
+      <Method Name="setViewArea" Hidden="true" />
+      <Method Name="setWindowSize" Hidden="true" />
+      <Method Name="stop" Hidden="true" />
+      <Method Name="stopLevel" Hidden="true" />
+      <Method Name="update" Hidden="true" />
+      <Method Name="updateBackgrounds" Hidden="true" />
+      <Method Name="updateBckScroll" Hidden="true" />
+      <Method Name="updateGameSettings" Hidden="true" />
+      <Method Name="updateSounds" Hidden="true" />
+      <Method Name="updateTextures" Hidden="true" />
+      <Method Name="vScroll" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>C0ACQWkgRAIgCcAYAAUkECcBEkEiWDYARYjhtQQdIlg=</HashCode>
+      <FileName>EditorController.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EditorParser" Collapsed="true">
+    <Position X="24.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAgQAAAACBQAACgJiAAAAAaAAABIgAEEcQJQQgAAAA=</HashCode>
+      <FileName>EditorParser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EditorState">
+    <Position X="9.75" Y="26" Width="5.5" />
+    <Members>
+      <Field Name="m_bckLayer" Hidden="true" />
+      <Field Name="m_camera" Hidden="true" />
+      <Field Name="m_collisionIDs" Hidden="true" />
+      <Field Name="m_collisionLayer" Hidden="true" />
+      <Field Name="m_collisionTiles" Hidden="true" />
+      <Field Name="m_curObject" Hidden="true" />
+      <Field Name="m_currentTileset" Hidden="true" />
+      <Field Name="m_insertMode" Hidden="true" />
+      <Field Name="m_level" Hidden="true" />
+      <Field Name="m_levelFile" Hidden="true" />
+      <Field Name="m_levelHeight" Hidden="true" />
+      <Field Name="m_levelWidth" Hidden="true" />
+      <Field Name="m_objAnimations" Hidden="true" />
+      <Field Name="m_objectLayer" Hidden="true" />
+      <Field Name="m_objectRepeated" Hidden="true" />
+      <Field Name="m_tileColumn" Hidden="true" />
+      <Field Name="m_tileIDs" Hidden="true" />
+      <Field Name="m_tileLayer" Hidden="true" />
+      <Field Name="m_tileRow" Hidden="true" />
+      <Field Name="m_tileSize" Hidden="true" />
+      <Field Name="s_editorID" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>oQAgACQUAiKACMAgAA4FAAJQUEEBAIEIIYFFZA5WABA=</HashCode>
+      <FileName>EditorState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EndState" Collapsed="true">
+    <Position X="7.75" Y="26" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAAAABEAAAWAIA=</HashCode>
+      <FileName>EndState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="14.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KKMTducU2yEl5TapoB8QMSCUDAmGVDfkZvt3TZReBpA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOverState" Collapsed="true">
+    <Position X="6" Y="26" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAgAAAEAAAAAAQAAABABAAUAAA=</HashCode>
+      <FileName>GameOverState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameState" Collapsed="true">
+    <Position X="6" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAhQAAAAAAAAAAAAAAAAAACAAgAAAAAAABAAAAUIAA=</HashCode>
+      <FileName>GameState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Layer" Collapsed="true">
+    <Position X="7.75" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAARAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAA=</HashCode>
+      <FileName>Layer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelParser" Collapsed="true">
+    <Position X="26.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgQAAAAAAAACARAAAAIAAAAAAAAACgAQAEQACAAAI=</HashCode>
+      <FileName>LevelParser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectLayer" Collapsed="true">
+    <Position X="6.5" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQABAAAAAAAABAAAAAIAAAABAAAAAAAQAAAAUAAA=</HashCode>
+      <FileName>ObjectLayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseState" Collapsed="true">
+    <Position X="2" Y="26" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAQAAAEAAEAAAAAAAAAABAAAAUAQA=</HashCode>
+      <FileName>PauseState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayState" Collapsed="true">
+    <Position X="4.25" Y="26" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQABMAIAAAAAAjAWwAAAABAEAAKoAFAAFAAQA0IIA=</HashCode>
+      <FileName>PlayState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartState" Collapsed="true">
+    <Position X="0.5" Y="26" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAQAAAAAAQAAAAAAEAAAAAAAAAABABAAUAAA=</HashCode>
+      <FileName>StartState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestState" Collapsed="true">
+    <Position X="4.25" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAgAAABACAAEAAA=</HashCode>
+      <FileName>TestState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileLayer" Collapsed="true">
+    <Position X="8.75" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMAFBACQAECABRAEAAABAAgAAAARAABAEAAUUABg=</HashCode>
+      <FileName>TileLayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="S2PEditor" Collapsed="true">
+    <Position X="24.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ALAEgCAABgoAEDBQQQYBACABAuQAAgUQAQABAogEBDg=</HashCode>
+      <FileName>S2PEditor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QNewTilesetDialog" Collapsed="true">
+    <Position X="6.5" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAACAAAAAAAAAgAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>QNewTilesetDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QBckDialog" Collapsed="true">
+    <Position X="18.5" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAEAAAAAAAAAAwAAAAAABAAAICAAAAAAAAEA=</HashCode>
+      <FileName>QBckDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QAddBckDialog" Collapsed="true">
+    <Position X="3.5" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QAddBckDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLevelsDock" Collapsed="true">
+    <Position X="18.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAACAAAAAAAAAAIgAACCAEAAAAAAAAAAAAEEABA=</HashCode>
+      <FileName>QLevelsDock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QNewProjectDialog" Collapsed="true">
+    <Position X="12.5" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAgBAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>QNewProjectDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QGameSettingsDialog" Collapsed="true">
+    <Position X="18.5" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAgERiABgAAAAIACIAIACAAAACAAAEQEAABCkAAAA=</HashCode>
+      <FileName>QGameSettingsDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QTilesetsDock" Collapsed="true">
+    <Position X="15.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAIAAAABAAgAAEAAAAAAAAAQAIQAQQEAAIAAMgAA=</HashCode>
+      <FileName>QTilesetsDock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QSoundsDialog" Collapsed="true">
+    <Position X="0.5" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAABiAQAAAAAAAAAAAAQAAAAAAAEAAAAAAgAAAAAAA=</HashCode>
+      <FileName>QSoundsDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QAddSoundDialog" Collapsed="true">
+    <Position X="0.5" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QAddSoundDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QTilesetScrollArea" Collapsed="true">
+    <Position X="30" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QTilesetScrollArea.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QTilesetLabel" Collapsed="true">
+    <Position X="28.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAUAAAABAgAAAAQYAIQAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>QTilesetLabel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QTexturesDialog" Collapsed="true">
+    <Position X="15.5" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAEAAAAAAAAAAAAAQAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QTexturesDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QSDLCanvas" Collapsed="true">
+    <Position X="26.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAEAAAAAAAQAAAAISACAAAAAAAAAAgAAAAAQCA=</HashCode>
+      <FileName>QSDLCanvas.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QObjectsDock" Collapsed="true">
+    <Position X="3.5" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAMBBgAEEAAgQAAAAAAQAgBAAAQAACAEAAAAEGAAA=</HashCode>
+      <FileName>QObjectsDock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QNewSpriteDialog" Collapsed="true">
+    <Position X="9.5" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QNewSpriteDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QNewObjectDialog" Collapsed="true">
+    <Position X="15.5" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAAAAEBAAAAAAIAAAAgEABAAAAAAAABAAAAAIA=</HashCode>
+      <FileName>QNewObjectDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QNewLevelDialog" Collapsed="true">
+    <Position X="18.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>QNewLevelDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QCanvasScrollArea" Collapsed="true">
+    <Position X="24.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAEAAAAAAAAAAAgAAIAAAAAQAAAEAAAA=</HashCode>
+      <FileName>QCanvasScrollArea.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QBBLabel" Collapsed="true">
+    <Position X="30" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAABAABABAAABAAAAQABAAAAAAAAAAAAA=</HashCode>
+      <FileName>QBBLabel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QBBDialog" Collapsed="true">
+    <Position X="28.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAABAAEAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>QBBDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::QAddBckDialog" Collapsed="true">
+    <Position X="3.5" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_QAddBckDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::QAddSoundDialog" Collapsed="true">
+    <Position X="0.5" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_QAddSoundDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::QBckDialog" Collapsed="true">
+    <Position X="18.5" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_QBckDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::QGameSettingsDialog" Collapsed="true">
+    <Position X="18.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_QGameSettingsDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::QLevelsDock" Collapsed="true">
+    <Position X="18.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_QLevelsDock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::QNewLevelDialog" Collapsed="true">
+    <Position X="18.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_QNewLevelDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::QNewObjectDialog" Collapsed="true">
+    <Position X="15.5" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_QNewObjectDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::QNewProjectDialog" Collapsed="true">
+    <Position X="12.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_QNewProjectDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::QNewSpriteDialog" Collapsed="true">
+    <Position X="9.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_QNewSpriteDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::QNewTilesetDialog" Collapsed="true">
+    <Position X="6.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_QNewTilesetDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::QObjectsDock" Collapsed="true">
+    <Position X="3.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_QObjectsDock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::QSoundsDialog" Collapsed="true">
+    <Position X="0.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_QSoundsDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::QTexturesDialog" Collapsed="true">
+    <Position X="15.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_QTexturesDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::QTilesetsDock" Collapsed="true">
+    <Position X="15.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_QTilesetsDock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::S2PEditorClass" Collapsed="true">
+    <Position X="11.5" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_S2PEditor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="QAnimStruct" Collapsed="true">
+    <Position X="26.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQCAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>EditorParser.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GameObjCfg" Collapsed="true">
+    <Position X="24.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAIAABAAAFUjAgAAAAEAAAAAA=</HashCode>
+      <FileName>EditorParser.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="TheEditor" Collapsed="true">
+    <Position X="20.75" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EditorController.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="TheGame" Collapsed="true">
+    <Position X="14.5" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="tinyxml2::XMLError" Collapsed="true">
+    <Position X="28.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKABKCAAAEAEAgoAAACACAAAAEQBAAAAIEEgAAAgAIA=</HashCode>
+      <FileName>tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="tinyxml2::Whitespace" Collapsed="true">
+    <Position X="26.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="mode" Collapsed="true">
+    <Position X="31.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAIAA=</HashCode>
+      <FileName>Camera.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="insertionMode" Collapsed="true">
+    <Position X="30" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAQAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EditorState.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="gameMode" Collapsed="true">
+    <Position X="28.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAABAEAAAAAAAAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="mouse_buttons" Collapsed="true">
+    <Position X="33.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAABAgAAAAAAAAAAA=</HashCode>
+      <FileName>InputHandler.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="sound_type" Collapsed="true">
+    <Position X="24.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SoundManager.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="animTableColumn" Collapsed="true">
+    <Position X="24.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAABAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>QNewObjectDialog.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="animTableRow" Collapsed="true">
+    <Position X="26.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAASABAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>QNewObjectDialog.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

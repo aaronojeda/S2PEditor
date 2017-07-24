@@ -1,0 +1,277 @@
+<editorFile>
+    <window width="640" height="480"/>
+    <initvalues health="3" lives="3" score="0" keys="0"/>
+    <maxvalues health="5" lives="99" score="100" keys="99"/>
+    <levels>
+        <level name="Level 1" file="projects/testField/levels/Level 1.xml"/>
+        <level name="Level 2" file="projects/testField/levels/Level 2.xml"/>
+        <level name="Level 3" file="projects/testField/levels/Level 3.xml"/>
+        <level name="Level 1_mario" file="projects/testField/levels/Level 1_mario.xml"/>
+        <level name="Level 1_sonic" file="projects/testField/levels/Level 1_sonic.xml"/>
+        <level name="bigsonic" file="projects/testField/levels/bigsonic.xml"/>
+    </levels>
+    <gamelevels>
+        <level name="Level 1" file="projects/testField/levels/Level 1.xml"/>
+        <level name="Level 2" file="projects/testField/levels/Level 2.xml"/>
+        <level name="Level 3" file="projects/testField/levels/Level 3.xml"/>
+    </gamelevels>
+    <textures>
+        <texture id="1up" source="projects/testField/assets/1up.png"/>
+        <texture id="bckBlue" source="projects/testField/assets/bckBlue.png"/>
+        <texture id="bckCloudsH" source="projects/testField/assets/bckClouds1300x480.png"/>
+        <texture id="bckCloudsV" source="projects/testField/assets/bckClouds640x1000.png"/>
+        <texture id="bigsonic" source="projects/testField/assets/sonicsheet200.PNG"/>
+        <texture id="cloudsParal" source="projects/testField/assets/pruebaParal.png"/>
+        <texture id="coinBronze" source="projects/testField/assets/coinBronze.png"/>
+        <texture id="coinFish" source="projects/testField/assets/coinFish.png"/>
+        <texture id="coinGold" source="projects/testField/assets/coinGold.png"/>
+        <texture id="coinSilver" source="projects/testField/assets/coinSilver.png"/>
+        <texture id="cpBanana" source="projects/testField/assets/cpBanana.png"/>
+        <texture id="doorGold" source="projects/testField/assets/doorGold.png"/>
+        <texture id="doorSilver" source="projects/testField/assets/doorSilver.png"/>
+        <texture id="doorSilver2" source="projects/testField/assets/doorSilver2.png"/>
+        <texture id="enemBird" source="projects/testField/assets/enemBird.png"/>
+        <texture id="enemBirdRed" source="projects/testField/assets/enemBirdRed.png"/>
+        <texture id="enemScorpion" source="projects/testField/assets/enemScorpion.png"/>
+        <texture id="enemSnail" source="projects/testField/assets/enemSnail.png"/>
+        <texture id="enemSnake" source="projects/testField/assets/enemSnake.png"/>
+        <texture id="enemSnakeKing" source="projects/testField/assets/enemSnakeKing.png"/>
+        <texture id="finishBanana" source="projects/testField/assets/finishBanana.png"/>
+        <texture id="healthBan" source="projects/testField/assets/healthBan.png"/>
+        <texture id="healthBans" source="projects/testField/assets/healthBans.png"/>
+        <texture id="healthPotion" source="projects/testField/assets/healthPotion.png"/>
+        <texture id="keyBronze" source="projects/testField/assets/keyBronze.png"/>
+        <texture id="keyGold" source="projects/testField/assets/keyGold.png"/>
+        <texture id="mario" source="projects/testField/assets/mariosheet2p.PNG"/>
+        <texture id="monkeySheet" source="projects/testField/assets/monkeysheet2.png"/>
+        <texture id="redBird" source="projects/testField/assets/enemBird.png"/>
+        <texture id="screenGameOver" source="projects/testField/assets/gameoverScreen.png"/>
+        <texture id="screenPause" source="projects/testField/assets/pauseScreen.png"/>
+        <texture id="screenStart" source="projects/testField/assets/startScreen.png"/>
+        <texture id="sonic" source="projects/testField/assets/sonicsheet.PNG"/>
+        <texture id="spikes1tile" source="projects/testField/assets/spikes1tile.png"/>
+        <texture id="spikes5tiles" source="projects/testField/assets/spikes5tiles.png"/>
+        <texture id="sreenEnd" source="projects/testField/assets/endScreen.png"/>
+        <texture id="tilesetClouds" source="projects/testField/assets/tilesetClouds_32x32.png"/>
+        <texture id="tilesetLand" source="projects/testField/assets/tilesetLand.png"/>
+    </textures>
+    <sounds>
+        <sound id="CoinDb2" source="projects/testField/assets/sfx_coin_double2.wav"/>
+        <sound id="DthImpact15" source="projects/testField/assets/sfx_sounds_impact15.wav"/>
+        <sound id="coinCl4" source="projects/testField/assets/sfx_coin_cluster4.wav"/>
+        <sound id="coinCl5" source="projects/testField/assets/sfx_coin_cluster5.wav"/>
+        <sound id="coinDb1" source="projects/testField/assets/sfx_coin_double1.wav"/>
+        <sound id="dmgImp1" source="projects/testField/assets/sfx_sounds_impact1.wav"/>
+        <sound id="doorOpen1" source="projects/testField/assets/sfx_movement_dooropen1.wav"/>
+        <sound id="dthAlien2" source="projects/testField/assets/sfx_deathscream_alien2.wav"/>
+        <sound id="dthAlien6" source="projects/testField/assets/sfx_deathscream_alien6.wav"/>
+        <sound id="dthNeg1" source="projects/testField/assets/sfx_sounds_negative1.wav"/>
+        <sound id="expShort12" source="projects/testField/assets/sfx_exp_short_soft12.wav"/>
+        <sound id="healthPU2" source="projects/testField/assets/sfx_sounds_powerup2.wav"/>
+        <sound id="healthPU6" source="projects/testField/assets/sfx_sounds_powerup6.wav"/>
+        <sound id="jmp1" source="projects/testField/assets/sfx_movement_jump1.wav"/>
+        <sound id="jmp13" source="projects/testField/assets/sfx_movement_jump13.wav"/>
+        <sound id="jmp7" source="projects/testField/assets/sfx_movement_jump7.wav"/>
+        <sound id="keyMenuSel5" source="projects/testField/assets/sfx_menu_select5.wav"/>
+        <sound id="keyNetural3" source="projects/testField/assets/sfx_sound_neutral3.wav"/>
+        <sound id="lifePU16" source="projects/testField/assets/sfx_sounds_powerup16.wav"/>
+        <sound id="playerDeath" source="projects/testField/assets/playerDeath.wav"/>
+        <sound id="playerJump" source="projects/testField/assets/playerJump.wav"/>
+        <sound id="portal1" source="projects/testField/assets/sfx_movement_portal1.wav"/>
+        <sound id="portal3" source="projects/testField/assets/sfx_movement_portal3.wav"/>
+    </sounds>
+    <music>
+        <msc id="announce" source="projects/testField/assets/DST_Announce.ogg"/>
+        <msc id="away" source="projects/testField/assets/DST-Away.ogg"/>
+        <msc id="electroRock" source="projects/testField/assets/DST_ElectroRock.ogg"/>
+        <msc id="forest" source="projects/testField/assets/forest.mp3"/>
+        <msc id="houseinaforest" source="projects/testField/assets/House In A Forest Loop.mp3"/>
+        <msc id="journey" source="projects/testField/assets/A Journey Awaits.ogg"/>
+        <msc id="random" source="projects/testField/assets/random silly chip song.ogg"/>
+    </music>
+    <hud health="healthBan" lives="1up" score="coinBronze" keys="keyBronze"/>
+    <screens start="screenStart" pause="screenPause" gameover="screenGameOver" end="sreenEnd"/>
+    <tilesets>
+        <tileset name="Land" firstgid="1" tilewidth="32" tileheight="32" spacing="0" margin="0" textureID="tilesetLand" width="13" height="11"/>
+        <tileset name="Clouds" firstgid="144" tilewidth="32" tileheight="32" spacing="0" margin="0" textureID="tilesetClouds" width="4" height="7"/>
+    </tilesets>
+    <editorobjects>
+        <editorobject name="1up" textureID="1up" type="LivesItem" frameWidth="32" frameHeight="32" xBB="4" yBB="7" widthBB="24" heightBB="20" xSpeed="0" ySpeed="0" value="1" value2="0" value3="0" soundID="lifePU16" sound2ID="">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+            </animations>
+        </editorobject>
+        <editorobject name="Sonic" textureID="bigsonic" type="Player" frameWidth="80" frameHeight="92" xBB="17" yBB="8" widthBB="54" heightBB="78" xSpeed="4" ySpeed="6" value="100" value2="150" value3="6" soundID="DthImpact15" sound2ID="jmp7">
+            <animations>
+                <animation name="death" row="3" nFrames="1" frameTime="1000"/>
+                <animation name="idle" row="0" nFrames="5" frameTime="300"/>
+                <animation name="jump" row="2" nFrames="1" frameTime="0"/>
+                <animation name="walk" row="1" nFrames="6" frameTime="100"/>
+            </animations>
+        </editorobject>
+        <editorobject name="checkPoint" textureID="cpBanana" type="CheckPoint" frameWidth="42" frameHeight="34" xBB="11" yBB="1" widthBB="20" heightBB="33" xSpeed="0" ySpeed="0" value="0" value2="0" value3="0" soundID="portal3" sound2ID="">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+            </animations>
+        </editorobject>
+        <editorobject name="door1" textureID="doorSilver" type="LockedDoor" frameWidth="58" frameHeight="64" xBB="3" yBB="9" widthBB="53" heightBB="55" xSpeed="0" ySpeed="0" value="1" value2="0" value3="0" soundID="doorOpen1" sound2ID="">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+            </animations>
+        </editorobject>
+        <editorobject name="door2" textureID="doorSilver2" type="LockedDoor" frameWidth="58" frameHeight="64" xBB="3" yBB="10" widthBB="53" heightBB="54" xSpeed="0" ySpeed="0" value="2" value2="0" value3="0" soundID="doorOpen1" sound2ID="">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+            </animations>
+        </editorobject>
+        <editorobject name="door3" textureID="doorGold" type="LockedDoor" frameWidth="58" frameHeight="64" xBB="2" yBB="9" widthBB="54" heightBB="54" xSpeed="0" ySpeed="0" value="3" value2="0" value3="0" soundID="doorOpen1" sound2ID="">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+            </animations>
+        </editorobject>
+        <editorobject name="enemBird" textureID="enemBird" type="Flying" frameWidth="48" frameHeight="32" xBB="5" yBB="5" widthBB="38" heightBB="23" xSpeed="-2" ySpeed="0" value="1" value2="1" value3="0" soundID="dthAlien6" sound2ID="dmgImp1">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+                <animation name="walk" row="0" nFrames="2" frameTime="250"/>
+            </animations>
+        </editorobject>
+        <editorobject name="enemKing" textureID="enemSnakeKing" type="LeftRight" frameWidth="64" frameHeight="76" xBB="8" yBB="16" widthBB="50" heightBB="59" xSpeed="1" ySpeed="5" value="10" value2="0" value3="0" soundID="" sound2ID="">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+                <animation name="walk" row="0" nFrames="2" frameTime="150"/>
+            </animations>
+        </editorobject>
+        <editorobject name="enemRedBird" textureID="enemBirdRed" type="FlyingChaser" frameWidth="48" frameHeight="32" xBB="3" yBB="5" widthBB="40" heightBB="21" xSpeed="2" ySpeed="2" value="2" value2="2" value3="200" soundID="dthAlien6" sound2ID="dmgImp1">
+            <animations>
+                <animation name="idle" row="0" nFrames="2" frameTime="150"/>
+                <animation name="walk" row="0" nFrames="2" frameTime="250"/>
+            </animations>
+        </editorobject>
+        <editorobject name="enemScorpion" textureID="enemScorpion" type="Chaser" frameWidth="32" frameHeight="32" xBB="2" yBB="1" widthBB="25" heightBB="29" xSpeed="3" ySpeed="5" value="3" value2="0" value3="150" soundID="dthAlien2" sound2ID="dmgImp1">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+                <animation name="walk" row="0" nFrames="2" frameTime="150"/>
+            </animations>
+        </editorobject>
+        <editorobject name="enemSnail" textureID="enemSnail" type="LeftRight" frameWidth="32" frameHeight="32" xBB="3" yBB="4" widthBB="27" heightBB="27" xSpeed="-1" ySpeed="5" value="1" value2="1" value3="0" soundID="DthImpact15" sound2ID="dmgImp1">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+                <animation name="walk" row="0" nFrames="2" frameTime="200"/>
+            </animations>
+        </editorobject>
+        <editorobject name="enemSnake" textureID="enemSnake" type="LeftRight" frameWidth="32" frameHeight="32" xBB="3" yBB="2" widthBB="26" heightBB="28" xSpeed="-2" ySpeed="5" value="2" value2="2" value3="0" soundID="expShort12" sound2ID="dmgImp1">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+                <animation name="walk" row="0" nFrames="2" frameTime="150"/>
+            </animations>
+        </editorobject>
+        <editorobject name="enemyRect" textureID="redRect" type="LeftRight" frameWidth="200" frameHeight="200" xBB="0" yBB="0" widthBB="200" heightBB="200" xSpeed="-2" ySpeed="4" value="1" value2="1000" value3="0" soundID="dthAlien6" sound2ID="dmgImp1">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+                <animation name="walk" row="0" nFrames="1" frameTime="0"/>
+            </animations>
+        </editorobject>
+        <editorobject name="finishBanana" textureID="finishBanana" type="LevelFinish" frameWidth="50" frameHeight="34" xBB="12" yBB="0" widthBB="21" heightBB="34" xSpeed="0" ySpeed="0" value="0" value2="0" value3="0" soundID="portal1" sound2ID="">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+            </animations>
+        </editorobject>
+        <editorobject name="health1" textureID="healthBan" type="HealthItem" frameWidth="32" frameHeight="33" xBB="6" yBB="6" widthBB="21" heightBB="24" xSpeed="0" ySpeed="0" value="1" value2="0" value3="0" soundID="healthPU6" sound2ID="">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+            </animations>
+        </editorobject>
+        <editorobject name="health3" textureID="healthBans" type="HealthItem" frameWidth="36" frameHeight="40" xBB="7" yBB="12" widthBB="25" heightBB="24" xSpeed="0" ySpeed="0" value="3" value2="0" value3="0" soundID="healthPU6" sound2ID="">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+            </animations>
+        </editorobject>
+        <editorobject name="healthFull" textureID="healthPotion" type="HealthItem" frameWidth="32" frameHeight="32" xBB="3" yBB="5" widthBB="25" heightBB="26" xSpeed="0" ySpeed="0" value="10" value2="0" value3="0" soundID="healthPU2" sound2ID="">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+            </animations>
+        </editorobject>
+        <editorobject name="key1" textureID="keyBronze" type="KeyItem" frameWidth="32" frameHeight="16" xBB="0" yBB="0" widthBB="32" heightBB="16" xSpeed="0" ySpeed="0" value="1" value2="0" value3="0" soundID="keyMenuSel5" sound2ID="">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+            </animations>
+        </editorobject>
+        <editorobject name="key3" textureID="keyGold" type="KeyItem" frameWidth="32" frameHeight="16" xBB="0" yBB="0" widthBB="32" heightBB="16" xSpeed="0" ySpeed="0" value="3" value2="0" value3="0" soundID="keyNetural3" sound2ID="">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+            </animations>
+        </editorobject>
+        <editorobject name="mario" textureID="mario" type="Player" frameWidth="32" frameHeight="32" xBB="6" yBB="1" widthBB="21" heightBB="31" xSpeed="2" ySpeed="5" value="100" value2="75" value3="4" soundID="DthImpact15" sound2ID="jmp13">
+            <animations>
+                <animation name="death" row="3" nFrames="1" frameTime="500"/>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+                <animation name="jump" row="2" nFrames="1" frameTime="0"/>
+                <animation name="walk" row="1" nFrames="3" frameTime="75"/>
+            </animations>
+        </editorobject>
+        <editorobject name="playerMonkey" textureID="monkeySheet" type="Player" frameWidth="64" frameHeight="48" xBB="19" yBB="4" widthBB="26" heightBB="43" xSpeed="3" ySpeed="5" value="80" value2="70" value3="5" soundID="dthNeg1" sound2ID="jmp13">
+            <animations>
+                <animation name="death" row="3" nFrames="6" frameTime="250"/>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+                <animation name="jump" row="2" nFrames="1" frameTime="0"/>
+                <animation name="walk" row="1" nFrames="4" frameTime="60"/>
+            </animations>
+        </editorobject>
+        <editorobject name="playerRect" textureID="blueRect" type="Player" frameWidth="50" frameHeight="50" xBB="0" yBB="0" widthBB="50" heightBB="50" xSpeed="2" ySpeed="4" value="80" value2="150" value3="4" soundID="dthAlien6" sound2ID="jmp1">
+            <animations>
+                <animation name="death" row="0" nFrames="1" frameTime="0"/>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+                <animation name="jump" row="0" nFrames="1" frameTime="0"/>
+                <animation name="walk" row="0" nFrames="1" frameTime="0"/>
+            </animations>
+        </editorobject>
+        <editorobject name="playerRect2" textureID="rect50x150" type="Player" frameWidth="50" frameHeight="150" xBB="0" yBB="0" widthBB="50" heightBB="150" xSpeed="2" ySpeed="4" value="80" value2="150" value3="4" soundID="DthImpact15" sound2ID="jmp13">
+            <animations>
+                <animation name="death" row="0" nFrames="1" frameTime="0"/>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+                <animation name="jump" row="0" nFrames="1" frameTime="0"/>
+                <animation name="walk" row="0" nFrames="1" frameTime="0"/>
+            </animations>
+        </editorobject>
+        <editorobject name="score1" textureID="coinBronze" type="ScoreItem" frameWidth="32" frameHeight="32" xBB="0" yBB="0" widthBB="32" heightBB="32" xSpeed="0" ySpeed="0" value="1" value2="0" value3="0" soundID="coinDb1" sound2ID="">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+            </animations>
+        </editorobject>
+        <editorobject name="score10" textureID="coinGold" type="ScoreItem" frameWidth="32" frameHeight="32" xBB="0" yBB="0" widthBB="32" heightBB="32" xSpeed="0" ySpeed="0" value="10" value2="0" value3="0" soundID="coinCl4" sound2ID="">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+            </animations>
+        </editorobject>
+        <editorobject name="score25" textureID="coinFish" type="ScoreItem" frameWidth="32" frameHeight="32" xBB="0" yBB="0" widthBB="32" heightBB="32" xSpeed="0" ySpeed="0" value="25" value2="0" value3="0" soundID="coinCl5" sound2ID="">
+            <animations>
+                <animation name="idle" row="0" nFrames="4" frameTime="150"/>
+            </animations>
+        </editorobject>
+        <editorobject name="score5" textureID="coinSilver" type="ScoreItem" frameWidth="32" frameHeight="32" xBB="0" yBB="0" widthBB="32" heightBB="32" xSpeed="0" ySpeed="0" value="5" value2="0" value3="0" soundID="CoinDb2" sound2ID="">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+            </animations>
+        </editorobject>
+        <editorobject name="smallSonic" textureID="sonic" type="Player" frameWidth="40" frameHeight="46" xBB="11" yBB="3" widthBB="22" heightBB="39" xSpeed="2" ySpeed="5" value="100" value2="80" value3="4" soundID="DthImpact15" sound2ID="jmp7">
+            <animations>
+                <animation name="death" row="3" nFrames="1" frameTime="1000"/>
+                <animation name="idle" row="0" nFrames="5" frameTime="300"/>
+                <animation name="jump" row="2" nFrames="1" frameTime="0"/>
+                <animation name="walk" row="1" nFrames="6" frameTime="100"/>
+            </animations>
+        </editorobject>
+        <editorobject name="spikes1" textureID="spikes1tile" type="LeftRight" frameWidth="32" frameHeight="22" xBB="0" yBB="14" widthBB="32" heightBB="8" xSpeed="0" ySpeed="0" value="10" value2="0" value3="0" soundID="" sound2ID="">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+                <animation name="walk" row="0" nFrames="1" frameTime="0"/>
+            </animations>
+        </editorobject>
+        <editorobject name="spikes5" textureID="spikes5tiles" type="LeftRight" frameWidth="160" frameHeight="22" xBB="4" yBB="15" widthBB="153" heightBB="7" xSpeed="0" ySpeed="0" value="10" value2="0" value3="0" soundID="" sound2ID="">
+            <animations>
+                <animation name="idle" row="0" nFrames="1" frameTime="0"/>
+                <animation name="walk" row="0" nFrames="1" frameTime="0"/>
+            </animations>
+        </editorobject>
+    </editorobjects>
+</editorFile>
