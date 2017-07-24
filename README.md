@@ -6,7 +6,7 @@ Game engine and GUI for the development of 2D platform games in Windows. Built u
 There is no need for installation, just run S2PEditor.exe under Deployment directory.
 ## Usage
 After running the executable, you will see a GUI. For more information go to the wiki.
-![Screenshot 1](S2PEditor/S2PEditor/assets/images/screenshot1.png)
+![Screenshot 1](S2PEditor/assets/images/screenshot1.png)
 
 
 
