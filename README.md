@@ -32,7 +32,6 @@ All art assets used in the project are copyrigth free. They are listed below alo
 * *Items and elements*, by Jason GrafxKid.
 * *Interaction Assets*, by Madebyoliver de FlatIcon.
 * *Essential Colection*, by Madebyoliver de FlatIcon.
-* *Interaction Assets*, by Madebyoliver de FlatIcon.
 * *Technology Elements*, by Madebyoliver de FlatIcon.
 ### Sounds
 * *The Essential Retro Video Game Sound Effects Collection*, by Juhani Junkala.
