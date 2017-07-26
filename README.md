@@ -1,5 +1,5 @@
 # S2PEditor
-Game engine and GUI for the development of simple 2D platform games in Windows. Built using C++, SDL and Qt. Designed and programmed by Aarón Ojeda.
+Game engine and GUI for the development of simple 2D platform games in Windows. Built using C++, SDL and Qt.
 ## Table of Contents
 1. Installation
 1. Usage
