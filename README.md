@@ -25,23 +25,23 @@ S2PEditor is a GUI for s2Dp framework, which is a modified and extended version 
 
 All art assets used in the project are copyrigth free. They are listed below along with the authors.
 ### Sprites
-* Monkey Lad in Magical Planet, by Carl Olsson (a.k.a: surt).
-* Monsterboy in Wonder World, by Carl Olsson.
-* 420 pixel art icons for RPG, by Henrique Lazarini (a.k.a: Ails).
-* arachnestuff, by Arachne.
-* Items and elements, by Jason GrafxKid.
-* Interaction Assets, by Madebyoliver de FlatIcon.
-* Essential Colection, by Madebyoliver de FlatIcon.
-* Interaction Assets, by Madebyoliver de FlatIcon.
-* Technology Elements, by Madebyoliver de FlatIcon.
+* *Monkey Lad in Magical Planet*, by Carl Olsson (a.k.a: surt).
+* *Monsterboy in Wonder World*, by Carl Olsson.
+* *420 pixel art icons for RPG*, by Henrique Lazarini (a.k.a: Ails).
+* *arachnestuff*, by Arachne.
+* *Items and elements*, by Jason GrafxKid.
+* *Interaction Assets*, by Madebyoliver de FlatIcon.
+* *Essential Colection*, by Madebyoliver de FlatIcon.
+* *Interaction Assets*, by Madebyoliver de FlatIcon.
+* *Technology Elements*, by Madebyoliver de FlatIcon.
 ### Sounds
-* The Essential Retro Video Game Sound Effects Collection, by Juhani Junkala.
-* Random silly chip song, by Bart Kelsey.
-* House in a Forest Loop, by HorrorPen.
-* A Journey Awaits, by Pierre Bondoerffer (@pbondoer).
+* *The Essential Retro Video Game Sound Effects Collection*, by Juhani Junkala.
+* *Random silly chip song*, by Bart Kelsey.
+* *House in a Forest Loop*, by HorrorPen.
+* *A Journey Awaits*, by Pierre Bondoerffer (@pbondoer).
 ### TrueType fonts
-* Boxy-Bold, by Clint Bellanger. Website: http://clintbellanger.net.
-* Karma Suture, by Typodermic Fotns.
+* *Boxy-Bold*, by Clint Bellanger. Website: http://clintbellanger.net.
+* *Karma Suture*, by Typodermic Fotns.
 ## License
 
 
