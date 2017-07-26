@@ -20,6 +20,7 @@ After running the executable, you will access S2PEditor GUI. You can see some sc
 
 ## Credits
 ###Sprites
+
 *Monkey Lad in Magical Planet, by Carl Olsson (a.k.a: surt).
 
 *Monsterboy in Wonder World, by Carl Olsson.
