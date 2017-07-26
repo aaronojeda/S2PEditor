@@ -14,7 +14,7 @@ After running the executable, you will access S2PEditor GUI. You can see some sc
 
 ![Main window](S2PEditor/assets/images/screenshot1.png)
 
-![Main window](S2PEditor/assets/images/screenshot1.png =320x320)
+![Main window reduced](S2PEditor/assets/images/screenshot1.png =320x)
 
 ![Creating a player object](S2PEditor/assets/images/screenshot2.png)
 
