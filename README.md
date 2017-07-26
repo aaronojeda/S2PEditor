@@ -8,6 +8,7 @@ Game engine and GUI for the development of simple 2D platform games in Windows. 
 1. License
 ## Installation
 There is no need for installation. Download and uncompress *S2PEditor.7z* and run *S2PEditor.exe* to launch the desktop application.
+
 A tiny platform game called *Monkidd* has been created as a demonstration. To try it, download and uncompress *Monkidd.7z* and run *game.exe*.
 ## Usage
 After running the executable, you will see S2PEditor GUI. You can navigate through the menu bar, the toolbar and the dock windows to create projects, add levels to them, populate these leves with tiles, backgrounds and objects and, finally, export the resulting game. All of this without writing a single code line.
