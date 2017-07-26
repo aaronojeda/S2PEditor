@@ -42,6 +42,6 @@ All art assets used in the project are copyrigth free. They are listed below alo
 * *Boxy-Bold*, by Clint Bellanger. Website: http://clintbellanger.net.
 * *Karma Suture*, by Typodermic Fotns.
 ## License
-
+This project is licensed under the terms of the GNU GPLv3 license.
 
 
