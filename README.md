@@ -19,6 +19,24 @@ After running the executable, you will access S2PEditor GUI. You can see some sc
 <img src="S2PEditor/assets/images/screenshot3.png" width="540">
 
 ## Credits
+###Sprites
+*Monkey Lad in Magical Planet, by Carl Olsson (a.k.a: surt).
+*Monsterboy in Wonder World, by Carl Olsson.
+*420 pixel art icons for RPG, by Henrique Lazarini (a.k.a: Ails)
+*arachnestuff, by Arachne.
+*Items and elements, by Jason GrafxKid.
+*Interaction Assets, by Madebyoliver de FlatIcon.
+*Essential Colection, by Madebyoliver de FlatIcon.
+*Interaction Assets, by Madebyoliver de FlatIcon.
+*Technology Elements, by Madebyoliver de FlatIcon.
+###Sonido
+*The Essential Retro Video Game Sound Effects Collection, by Juhani Junkala.
+*Random silly chip song, by Bart Kelsey.
+*House in a Forest Loop, by HorrorPen
+*A Journey Awaits, by Pierre Bondoerffer (@pbondoer)
+###TrueType fonts
+*Boxy-Bold, by Clint Bellanger. Website: http://clintbellanger.net.
+*Karma Suture, by Typodermic Fotns.
 ## License
 
 
