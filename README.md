@@ -12,13 +12,11 @@ There is no need for installation, just run S2PEditor.exe under Deployment direc
 ## Usage
 After running the executable, you will access S2PEditor GUI. You can see some screenshots below. For deeper info about usage, go to the wiki.
 
-![Main window](S2PEditor/assets/images/screenshot1.png)
+<img src="S2PEditor/assets/images/screenshot1.png" width="540">
 
-<img src="S2PEditor/assets/images/screenshot1.png" width="400">
+<img src="S2PEditor/assets/images/screenshot2.png" width="540">
 
-![Creating a player object](S2PEditor/assets/images/screenshot2.png)
-
-![Testing a level](S2PEditor/assets/images/screenshot3.png)
+<img src="S2PEditor/assets/images/screenshot3.png" width="540">
 
 ## Credits
 ## License
