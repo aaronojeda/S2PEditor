@@ -19,7 +19,7 @@ After running the executable, you will access S2PEditor GUI. You can see some sc
 <img src="S2PEditor/assets/images/screenshot3.png" width="540">
 
 ## Credits
-###Sprites
+##Sprites
 
 *Monkey Lad in Magical Planet, by Carl Olsson (a.k.a: surt).
 
@@ -39,7 +39,7 @@ After running the executable, you will access S2PEditor GUI. You can see some sc
 
 *Technology Elements, by Madebyoliver de FlatIcon.
 
-###Sonido
+###Sounds
 *The Essential Retro Video Game Sound Effects Collection, by Juhani Junkala.
 *Random silly chip song, by Bart Kelsey.
 *House in a Forest Loop, by HorrorPen
