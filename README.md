@@ -21,7 +21,7 @@ After running the executable, you will access S2PEditor GUI. You can see some sc
 ## Credits
 S2PEditor and s2Dp have been designed and programmed by Aarón Ojeda. 
 
-S2PEditor is a GUI for s2Dp framework, which is a modified and extended version of the framework proposed by Shaun Mitchell in his book SDL Game Development (2013).
+S2PEditor is a GUI for s2Dp framework, which is a modified and extended version of the framework proposed by Shaun Mitchell in his book *SDL Game Development* (2013).
 
 All art assets used in the project are copyrigth free. They are listed below along with the authors.
 ### Sprites
