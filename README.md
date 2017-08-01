@@ -11,7 +11,7 @@ There is no need for installation. Download and uncompress *S2PEditor.7z* and ru
 
 A tiny platform game called *Monkidd* has been created as a demonstration. It has been made from scratch using only S2PEditor. To try it, download and uncompress *Monkidd.7z* and run *game.exe*.
 
-You can also try *Think before you jump*, a micro-platformer with four different endings that I made for Ludum Dare 39.
+You can also try *Think before you jump*, a micro-platformer with four different endings that I made for Ludum Dare 39. You can find it under *ThinkB4YJ.7z*.
 ## Usage
 After running the executable, you will see S2PEditor GUI. You can navigate through the menu bar, the toolbar and the dock windows to create projects, add levels to them, populate these leves with tiles, backgrounds and objects and, finally, export the resulting game. All of this without writing a single code line.
 
