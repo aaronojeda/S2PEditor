@@ -9,7 +9,9 @@ S2PEditor is a game engine and GUI for the development of simple 2D platform gam
 ## Installation
 There is no need for installation. Download and uncompress *S2PEditor.7z* and run *S2PEditor.exe* to launch the desktop application.
 
-A tiny platform game called *Monkidd* has been created as a demonstration. To try it, download and uncompress *Monkidd.7z* and run *game.exe*.
+A tiny platform game called *Monkidd* has been created as a demonstration. It has been made from scratch using only S2PEditor. To try it, download and uncompress *Monkidd.7z* and run *game.exe*.
+
+You can also try *Think before you jump*, a micro-platformer with four different endings that I made for Ludum Dare 39.
 ## Usage
 After running the executable, you will see S2PEditor GUI. You can navigate through the menu bar, the toolbar and the dock windows to create projects, add levels to them, populate these leves with tiles, backgrounds and objects and, finally, export the resulting game. All of this without writing a single code line.
 
