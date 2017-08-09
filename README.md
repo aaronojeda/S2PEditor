@@ -35,9 +35,9 @@ All art assets used in the project are copyrigth free. They are listed below alo
 * *420 pixel art icons for RPG*, by Henrique Lazarini (a.k.a: Ails).
 * *arachnestuff*, by Arachne.
 * *Items and elements*, by Jason GrafxKid.
-* *Interaction Assets*, by Madebyoliver de FlatIcon.
-* *Essential Colection*, by Madebyoliver de FlatIcon.
-* *Technology Elements*, by Madebyoliver de FlatIcon.
+* *Interaction Assets*, by Madebyoliver.
+* *Essential Colection*, by Madebyoliver.
+* *Technology Elements*, by Madebyoliver.
 ### Sounds
 * *The Essential Retro Video Game Sound Effects Collection*, by Juhani Junkala.
 * *Random silly chip song*, by Bart Kelsey.
